@@ -1,0 +1,15 @@
+E:\Documents\Projects\Andesite\Andesite\bin\Debug\net6.0\Andesite.exe
+E:\Documents\Projects\Andesite\Andesite\bin\Debug\net6.0\Andesite.deps.json
+E:\Documents\Projects\Andesite\Andesite\bin\Debug\net6.0\Andesite.runtimeconfig.json
+E:\Documents\Projects\Andesite\Andesite\bin\Debug\net6.0\Andesite.dll
+E:\Documents\Projects\Andesite\Andesite\bin\Debug\net6.0\ref\Andesite.dll
+E:\Documents\Projects\Andesite\Andesite\bin\Debug\net6.0\Andesite.pdb
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.csproj.AssemblyReference.cache
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.AssemblyInfoInputs.cache
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.AssemblyInfo.cs
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.dll
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\ref\Andesite.dll
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.pdb
+E:\Documents\Projects\Andesite\Andesite\obj\Debug\net6.0\Andesite.genruntimeconfig.cache
